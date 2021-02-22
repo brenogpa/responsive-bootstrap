@@ -1,6 +1,14 @@
+/*__________Layout__________*/
+
 body {
     background: url(../imagens/capa.png),
                 url(../imagens/ruido.png),
                 linear-gradient(50deg,#ff4169,#7c26f8);
     background-attachment: fixed;
+}
+
+/*__________Barra de navegação__________*/
+
+nav.navbar-transparente {
+    background: rgba(0, 0, 0, 0.6);
 }
