@@ -73,10 +73,17 @@ nav.navbar-transparente {
 
 /*__________Estrutura conteúdos__________*/
 
-#servicos {
-    background: white;
+.caixa {
     padding-top: 20px;
     padding-bottom: 20px;
+}
+
+#servicos {
+    background: white;
+}
+
+#recursos {
+    color: white;
 }
 
 #servicos h2, h3 {
