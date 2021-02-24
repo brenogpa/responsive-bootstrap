@@ -102,6 +102,13 @@ nav.navbar-transparente {
     padding: 10px 0;
 }
 
+.rotacionar {
+    border: 1px solid red;
+    transform: rotate(30deg);
+    -ms-transform: rotate(30deg); /* IE 9 */
+    -webkit-transform: rotate(30deg); /* Chrome, Safari, Opera */
+}
+
 /*__________Tipografia__________*/
 
 h1 {
