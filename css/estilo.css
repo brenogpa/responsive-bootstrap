@@ -104,7 +104,6 @@ nav.navbar-transparente {
 }
 
 .rotacionar {
-    border: 1px solid red;
     -ms-transform: rotate(30deg); /* IE 9 */
     -webkit-transform: rotate(30deg); /* Chrome, Safari, Opera */
     transform: rotate(30deg);
