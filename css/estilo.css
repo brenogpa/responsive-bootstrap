@@ -83,6 +83,14 @@ nav.navbar-transparente {
     color: #7c25f8;
 }
 
+#recursos h2 {
+    color: white;
+}
+
+#recursos h3 {
+    color: #9bf0e1;
+}
+
 .albuns {
     padding: 10px 0;
 }
