@@ -71,6 +71,18 @@ nav.navbar-transparente {
     color: black;
 }
 
+/*__________Estrutura conteúdos__________*/
+
+#servicos {
+    background: white;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.albuns {
+    padding: 10px 0;
+}
+
 /*__________Tipografia__________*/
 
 h1 {
