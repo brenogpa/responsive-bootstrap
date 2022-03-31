@@ -1,6 +1,8 @@
 ![Logo of the project](https://github.com/brenogpa/responsive-bootstrap/blob/master/imagens/spotify.svg)
 ## Spotify - A copy of the original website
 
+You can test it right [HERE](https://brenogpa.github.io/responsive-bootstrap/)
+
 Hey there! This project was built to develop responsive website skills with bootstrap!
 
  ![Home Screen](https://github.com/brenogpa/responsive-bootstrap/blob/master/imagens/screenshot.png)
